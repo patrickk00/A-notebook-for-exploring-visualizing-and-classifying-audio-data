@@ -1,4 +1,4 @@
-# A-notebook-for-exploring-visualizing-and-classifying-audio-data
+# A-notebook-for-exploring-visualizing-and-classifying-audio-data.
 
 Repository containing a Jupyter notebook used for audio data analysis.
 The notebook includes steps for loading and exploring an audio dataset, 
